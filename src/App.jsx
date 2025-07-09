@@ -1,5 +1,5 @@
 import { Navigate, Route, Routes } from "react-router-dom";
-import PublicRoute from "./routes/publicRoute";
+import PublicRoute from "./routes/PublicRoute";
 import ProtectedRoute from "./routes/protectedRoute";
 import Register from "./pages/Register";
 import Dashboard from "./dashboard/Dashboard";
